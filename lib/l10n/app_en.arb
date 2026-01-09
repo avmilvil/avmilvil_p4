@@ -1,0 +1,23 @@
+{
+  "appTitle": "Event Registration",
+  "name": "Name",
+  "email": "Email",
+  "eventType": "Event Type",
+  "preference": "Preference",
+  "hackathon": "Hackathon",
+  "festival": "Festival",
+  "concierto": "Concert",
+  "seminario": "Seminar",
+  "salaA": "Room A",
+  "salaB": "Room B",
+  "salaC": "Room C",
+  "selectDate": "Select Date",
+  "acceptTerms": "Accept Terms and Conditions",
+  "fieldRequired": "This field is required",
+  "acceptTermsWarning": "You must accept the terms to send the form",
+  "send": "Send",
+  "confirmMessage": "Do you want to submit the form?",
+  "cancel": "Cancel",
+  "accept": "Accept",
+  "summary": "Summary"
+}

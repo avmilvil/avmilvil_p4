@@ -1,0 +1,23 @@
+{
+  "appTitle": "Inscription à l'événement",
+  "name": "Nom",
+  "email": "Email",
+  "eventType": "Type d'événement",
+  "preference": "Préférence",
+  "hackathon": "Hackathon",
+  "festival": "Festival",
+  "concierto": "Concert",
+  "seminario": "Séminaire",
+  "salaA": "Salle A",
+  "salaB": "Salle B",
+  "salaC": "Salle C",
+  "selectDate": "Sélectionner la date",
+  "acceptTerms": "Accepter les conditions",
+  "fieldRequired": "Ce champ est obligatoire",
+  "acceptTermsWarning": "Vous devez accepter les termes pour envoyer le formulaire",
+  "send": "Envoyer",
+  "confirmMessage": "Voulez-vous envoyer le formulaire ?",
+  "cancel": "Annuler",
+  "accept": "Accepter",
+  "summary": "Résumé"
+}
