@@ -5,16 +5,13 @@ import 'package:avmilvil_p4/generated/l10n/app_localizations.dart';
 
 class FormScreen extends StatefulWidget {
   final void Function(Locale) onChangeLanguage;
-
   const FormScreen({super.key, required this.onChangeLanguage});
-
   @override
   State<FormScreen> createState() => _FormScreenState();
 }
 
 class _FormScreenState extends State<FormScreen> {
   final _formKey = GlobalKey<FormState>();
-
   String? name;
   String? email;
   String eventType = 'hackathon';
